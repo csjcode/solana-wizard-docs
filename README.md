@@ -2,7 +2,7 @@
 
 This developer tool is currently in progress with planned release in early 2024.
 
-The developer CSJcode is currently at mtnDAO, the Solana developer networking and hacking event. Fee free to contact him on twitter at @csjcode. 
+The developer CSJcode is currently at mtnDAO, the Solana developer networking and hacking event. Feel free to contact him on twitter at @csjcode. 
 
 ### Introduction
 
